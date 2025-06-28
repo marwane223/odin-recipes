@@ -1,0 +1,27 @@
+* {
+    font-family:'Courier New', Courier, monospace,
+}
+h1 {
+    background-color: rgb(31, 226, 177);
+    text-align: center;
+    padding: 12px;
+    margin: 0 auto;
+}
+
+li {
+    width: fit-content;
+    padding: 10px;
+    margin: 5px;
+    list-style: none;
+    margin-left: 20px;
+    display: inline-block;
+}
+
+button {
+    background-color: darkorange;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px 30px;
+    text-align: center;
+    width: 150px;
+}
